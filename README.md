@@ -5,7 +5,14 @@ This is a stripped down version of Adafruits wonderful FONA Library.
 This was done to try and reduce memory constraints for a project where we were
 tight on RAM and space on the device, and needed to cut things out.
 
-All credit for the code is Adafruit, all I did is hit the delete key a bunch
+All credit for the code is Adafruit, all I did is hit the delete key a bunch.
+
+I did not originally intend to host this publically, as I did not properly fork
+their repo, but just took one of their downloaded samples and then began modifying.
+I put it onto github to make it easier for another member of the project to have access to it,
+but as it stands the current repo is not a proper reference to the authors original work,
+and thus I want to call out that NONE of this code, save a tiny number of renames,
+belongs to me.
 
 # Adafruit FONA Library [![Build Status](https://secure.travis-ci.org/adafruit/Adafruit_FONA_Library.svg?branch=master)](https://travis-ci.org/adafruit/Adafruit_FONA_Library)
 
